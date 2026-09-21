@@ -165,5 +165,7 @@ Project screenshots are available in the `screenshots` folder, including:
 - Azure Architecture
 - Azure Resources
 - ADLS Gen2 Containers
+- Azure Data Factory Linked Services
+- Azure Data Factory Datasets and Pipeline
 - Databricks Catalog Explorer
 - Power BI Dashboard
