@@ -121,6 +121,8 @@ azure-nyc-taxi-data-engineering/
     ├── architecture.png
     ├── azure-resources.png
     ├── adls-containers.png
+    ├── adf-linked-services.png
+    ├── adf-datasets-pipeline.png
     ├── databricks-catalog-explorer.png
     └── powerbi-dashboard.png
 ```
